@@ -1,2 +1,2 @@
 # Ice-T-SNE
-Visualization of a very multi-dimensional career for musician and actor Tracy Lauren Marrow.
+Visualization of the highly multi-dimensional career of musician and actor Tracy Lauren Marrow.
